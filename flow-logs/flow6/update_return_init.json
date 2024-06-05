@@ -10,14 +10,14 @@
         "bpp_uri": "https://ondc-api.kiko.live/ondc-seller-v2",
         "transaction_id": "ee1e02f6-0d7c-44bb-b6b5-acec51fbdf73",
         "message_id": "345b2cf7-72e7-491f-93f0-4f00d042534e",
-        "timestamp": "2024-05-24T10:44:26.862Z",
+        "timestamp": "2024-06-05T10:44:26.862Z",
         "bpp_id": "ondc-api.kiko.live/ondc-seller-v2",
         "ttl": "PT30S"
     },
     "message": {
         "update_target": "item",
         "order": {
-            "id": "2024-05-24-774549",
+            "id": "2024-06-05-774549",
             "fulfillments": [
                 {
                     "type": "Return",
@@ -51,7 +51,7 @@
                                 },
                                 {
                                     "code": "images",
-                                    "value": "https://reference-buyer-app-assets.s3-ap-south-1.amazonaws.com/public-assets/2024-05-24-774549/72bae848-b5bf-479a-bc16-0974b7c6e931.png"
+                                    "value": "https://reference-buyer-app-assets.s3-ap-south-1.amazonaws.com/public-assets/2024-06-05-774549/72bae848-b5bf-479a-bc16-0974b7c6e931.png"
                                 },
                                 {
                                     "code": "ttl_approval",

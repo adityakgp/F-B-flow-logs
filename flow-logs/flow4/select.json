@@ -10,7 +10,7 @@
         "bpp_uri": "https://ondc-api.kiko.live/ondc-seller-v2",
         "transaction_id": "fd324c9d-f451-4643-b1a5-c713269c857b",
         "message_id": "b457c65e-2118-476d-8ec4-360055ccb3eb",
-        "timestamp": "2024-05-22T06:26:04.639Z",
+        "timestamp": "2024-06-05T06:26:04.639Z",
         "bpp_id": "ondc-api.kiko.live/ondc-seller-v2",
         "ttl": "PT30S"
     },
