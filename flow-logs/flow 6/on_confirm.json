@@ -9,7 +9,7 @@
       "bpp_uri": "https://ondc-api.kiko.live/ondc-seller-v2",
       "transaction_id": "515553f4-76e9-493f-9950-c993c2613778",
       "message_id": "c675e35a-9978-4320-831a-92c739b3fffa",
-      "city": "std:022",
+      "city": "std:080",
       "country": "IND",
       "timestamp": "2024-06-25T12:47:23.958Z"
     },
@@ -36,13 +36,13 @@
         ],
         "billing": {
           "address": {
-            "name": "Aditya Das",
-            "building": "apartment",
-            "locality": "Nanepada Road",
-            "city": "Mumbai",
-            "state": "Maharashtra",
-            "country": "IND",
-            "area_code": "400081"
+            "building": "new apartment",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "IND",
+    "area_code": "560001",
+    "locality": "Raj Bhavan Road",
+    "name": "Aditya Das"
           },
           "phone": "9904391009",
           "name": "Aditya Das",
@@ -64,16 +64,16 @@
             "start": {
               "location": {
                 "id": "location-6386154b42674fabf7bdabf4",
-                "gps": "19.17653453,72.947534534",
-                "descriptor": {
-                  "name": "Vijendra Grocery Store"
-                },
-                "address": {
-                  "locality": "Anand Vihar Colony",
-                  "city": "Mumbai",
-                  "area_code": "400080",
-                  "state": "Maharashtra"
-                }
+                "gps": "12.982017,77.587606",
+              "descriptor": {
+                "name": "Vijendra Grocery Store"
+              },
+              "address": {
+                "locality": "H-123, Surya Shop",
+                "city": "Bangalore",
+                "area_code": "560001",
+                "state": "Karnataka"
+              }
               },
               "time": {
                 "range": {
@@ -88,16 +88,16 @@
             },
             "end": {
               "location": {
-                "gps": "19.162519,72.955275",
-                "address": {
-                  "name": "Aditya Das",
-                  "building": "apartment",
-                  "locality": "Nanepada Road",
-                  "city": "Mumbai",
-                  "state": "Maharashtra",
-                  "country": "IND",
-                  "area_code": "400081"
-                }
+                "gps": "12.981214,77.595029",
+              "address": {
+                "name": "Aditya Das",
+                "building": "new apartment",
+                "locality": "Raj Bhavan Road",
+                "city": "Bengaluru",
+                "state": "Karnataka",
+                "country": "IND",
+                "area_code": "560001"
+              }
               },
               "time": {
                 "range": {
