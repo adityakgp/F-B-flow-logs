@@ -36,7 +36,7 @@
             "@ondc/org/provider_name": "Vijendra Grocery Store",
             "tracking": false,
             "@ondc/org/category": "Immediate Delivery",
-            "@ondc/org/TAT": "PT30M",
+            "@ondc/org/TAT": "PT60M",
             "state": {
               "descriptor": {
                 "code": "Serviceable"

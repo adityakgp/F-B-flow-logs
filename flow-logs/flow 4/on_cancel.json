@@ -127,7 +127,7 @@
                 "email": "adityadas.iitkgp@gmail.com"
               }
             },
-            "@ondc/org/TAT": "PT30M",
+            "@ondc/org/TAT": "PT60M",
             "tags": [
               {
                 "code": "cancel_request",

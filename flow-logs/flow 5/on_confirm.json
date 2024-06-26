@@ -112,7 +112,7 @@
               "phone": "9904391009"
             }
           },
-          "@ondc/org/TAT": "PT30M"
+          "@ondc/org/TAT": "PT60M"
         }
       ],
       "quote": {

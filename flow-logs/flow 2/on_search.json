@@ -253,7 +253,7 @@
                 "@ondc/org/cancellable": false,
                 "@ondc/org/return_window": "P2D",
                 "@ondc/org/seller_pickup_return": false,
-                "@ondc/org/time_to_ship": "PT10M",
+                "@ondc/org/time_to_ship": "PT45M",
                 "@ondc/org/available_on_cod": false,
                 "@ondc/org/contact_details_consumer_care": "Vijendra Patidar, vijendra@linkites.com, +919009120913",
                 "fulfillment_id": "1",

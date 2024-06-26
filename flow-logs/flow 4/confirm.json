@@ -53,7 +53,7 @@
       },
       "fulfillments": [
         {
-          "@ondc/org/TAT": "PT30M",
+          "@ondc/org/TAT": "PT60M",
           "id": "fulfillment-6386154b42674fabf7bdabf4",
           "tracking": false,
           "end": {
