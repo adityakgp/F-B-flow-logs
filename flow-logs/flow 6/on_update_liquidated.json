@@ -462,6 +462,13 @@
             "settlement_phase": "sale-amount",
             "bank_name": "HDFC BANK LTD ",
             "branch_name": "MUMBAI - MULUND WEST (WEST)"
+          },
+          {
+            "settlement_counterparty": "buyer",
+            "settlement_phase": "refund",
+            "settlement_type": "upi",
+            "settlement_amount": "26.88",
+            "settlement_timestamp": "2024-07-17T17:26:46.846Z"
           }
         ]
       },
